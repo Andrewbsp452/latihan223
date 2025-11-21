@@ -28,6 +28,7 @@
         <h1>Selamat Datang!</h1>
         <p>Halo! Ini adalah halaman web sederhana menggunakan PHP.</p>
         <p>Waktu server sekarang: <?php echo date('d-m-Y H:i:s'); ?></p>
+        <p>Ini adalah perubahan dari erick</p>
     </div>
 </body>
 </html>
